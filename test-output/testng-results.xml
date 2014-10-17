@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94" started-at="2014-10-16T20:07:58Z" finished-at="2014-10-16T20:07:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94" started-at="2014-10-16T20:07:58Z" finished-at="2014-10-16T20:07:58Z">
+      <class name="test.YahooNewsTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.YahooNewsTest@18df2e4]" name="beforeTest" is-config="true" duration-ms="47" started-at="2014-10-16T16:07:58Z" finished-at="2014-10-16T16:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="sample()[pri:0, instance:test.YahooNewsTest@18df2e4]" name="sample" duration-ms="15" started-at="2014-10-16T16:07:58Z" finished-at="2014-10-16T16:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.YahooNewsTest@18df2e4]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2014-10-16T16:07:58Z" finished-at="2014-10-16T16:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.YahooNewsTest@18df2e4]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2014-10-16T16:07:58Z" finished-at="2014-10-16T16:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="yahoonews()[pri:0, instance:test.YahooNewsTest@18df2e4]" name="yahoonews" duration-ms="16" started-at="2014-10-16T16:07:58Z" finished-at="2014-10-16T16:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahoonews -->
+      </class> <!-- test.YahooNewsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

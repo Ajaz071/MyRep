@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testing.org/testing-1.0.dtd">
+<suite name = "YahooIndia">
+<test name = "Yahoo Mail Test">
+	<classes>
+		<class name ="test.YahooTest"></class>
+	</classes>
+	</test>
+	
+<test name = "Yahoo news Test">
+	<classes>
+		<class name ="test.YahooNewsTest"></class>
+	</classes>
+	</test>
+	
+</suite>
